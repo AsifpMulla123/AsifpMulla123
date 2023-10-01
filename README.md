@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/yoWUf4KjqMWTNst37)
+[![MasterHead](https://images.app.goo.gl/yoWUf4KjqMWTNst37)]
 <h1 align="center">Hi 👋, I'm Asif Mulla</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://images.app.goo.gl/eDLYparFw8hs2mBQA">
