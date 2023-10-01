@@ -1,7 +1,7 @@
-<img src="https://images.app.goo.gl/yoWUf4KjqMWTNst37" alt="FullStack">
+<img src="full-stack-development.gif" alt="FullStack">
 <h1 align="center">Hi 👋, I'm Asif Mulla</h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/eDLYparFw8hs2mBQA">
+<img align="right" alt="coding" width="400" src="81178b47a8598f0c81c4799f2cdd4057.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifmulla123&label=Profile%20views&color=0e75b6&style=flat" alt="asifmulla123" /> </p>
 
 - 🌱 I’m currently learning **ReactJs,NodeJs,ExpressJs,Mongodb**
