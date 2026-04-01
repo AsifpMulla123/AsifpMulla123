@@ -4,9 +4,9 @@
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asifmulla123&label=Profile%20views&color=0e75b6&style=flat" alt="asifmulla123" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,NodeJs,ExpressJs,Mongodb**
+- 🌱 I’m currently learning **NextJs,ReactJs,NodeJs,ExpressJs,Mongodb**
 
-- 💬 Ask me about **ReactJs,NodeJs,ExpressJs,Mongodb,HTML,CSS,Javascript,DSA**
+- 💬 Ask me about **NextJs,ReactJs,NodeJs,ExpressJs,Mongodb,HTML,CSS,Javascript,DSA**
 
 - 📫 How to reach me **asifmullaofficial@gmail.com**
 
