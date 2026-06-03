@@ -76,6 +76,6 @@ I am a **Full Stack Developer** dedicated to turning complex problems into scala
 ---
 
 <p align="center">
-  <b>I’m actively looking for opportunities to contribute, learn, and build impactful products. Let's build the future together! 🚀</b>
+  <b>I’m actively looking for opportunities to contribute, learn,grow and build impactful products. Let's build the future together! 🚀</b>
 </p>
 
