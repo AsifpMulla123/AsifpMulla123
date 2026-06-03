@@ -70,8 +70,6 @@ I am a **Full Stack Developer** dedicated to turning complex problems into scala
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=AsifpMulla123&show_icons=true&theme=radical" alt="Asif's Stats" />
-  <br/> -->
   <img src="https://github-readme-stats.shion.dev/api?username=AsifpMulla123&show_icons=true&theme=radical" alt="Asif's Stats Backup" />
 </p>
 
